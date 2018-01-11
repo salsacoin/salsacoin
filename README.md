@@ -1,0 +1,2 @@
+# salsacoin
+spicy currency
